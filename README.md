@@ -10,15 +10,11 @@
 
 <br />
 
-<hr>
 
 ## 🤯 전체 블로깅
 
----
-
 #### Day 1
 
----
 
 ###### [1. HTML코드에 CSS와 JS코드 넣기 (Web Javascript/document.body/className)](https://basemenks.tistory.com/19)
 
@@ -26,7 +22,6 @@
 
 #### Day 2
 
----
 
 ###### [2. HTML파일에 자바스크립트 연결하기 (inline/script)](https://basemenks.tistory.com/20)
 
@@ -36,7 +31,6 @@
 
 #### Day 3
 
----
 
 ###### [4. BOM과 DOM에 대하여 (Object Model/객체화)](https://basemenks.tistory.com/22)
 
@@ -54,7 +48,6 @@
 
 #### Day 4
 
----
 
 ###### [10. DOM에서 getElementBy(TagName/ClassName/Id) 사용법 (+querySelector)](https://basemenks.tistory.com/41)
 
@@ -63,3 +56,20 @@
 ###### [12. Node에 대하여 (자바스크립트/node/nodeName/nodeValue)](https://basemenks.tistory.com/43)
 
 ###### [13. Node List란 무엇인가 (node Value, childNode, 자바스크립트)](https://basemenks.tistory.com/44)
+
+## 
+
+
+<br />
+
+---
+
+## 🤖 제작 히스토리
+
+#### 21.08.23 ~ 21.09.08 
+
+Vanilla JavaScript src done!
+
+#### 21.12.01 ~ 
+
+Vanilla JS to React!
